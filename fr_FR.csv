@@ -4850,6 +4850,7 @@ Downloads,Téléchargements
 "Use Content-Disposition","Utiliser la disposition de contenu"
 "Disable Guest Checkout if Cart Contains Downloadable Items","Désactiver le passage de commande en tant qu'invité si le panier contient des produits téléchargeables"
 "Guest checkout will only work with shareable.","Le passage de commande en tant qu'invité ne fonctionnera qu'avec les partageables."
+"File directory '%1' is not writable.","Le répertoire '%1' n'est pas autorisé en écriture."
 "Default Label","Libellé par défaut"
 "Default label","Libellé par défaut"
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Nom qui apparaîtra sous votre application lorsque les utilisateurs l'installeront sur leur terminal. Nous vous recommandons d'utiliser un nom de 10 à 12 caractères reconnaissable par vos clients."
