@@ -4818,6 +4818,7 @@ Unlimited,Illimité
 "Cannot delete link with id %1","Impossible de supprimer le lien avec l'id %1"
 "Please specify product link(s).","Spécifiez le ou les liens des produits"
 "Sample file not provided","Fichier d'échantillons non fourni"
+"Provided sample information is invalid.","Les examples d'informations fournies sont invalides."
 attachment,"pièce jointe"
 inline,"en ligne"
 Pending,"En attente"
