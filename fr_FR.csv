@@ -1450,7 +1450,7 @@ Invoiced,Facturé
 Shipped,Livré
 Refunded,Remboursé
 Canceled,Annulée
-"As low as","Achetez en volume à"
+"As low as","Prix à partir de"
 "Regular Price","Ancien prix"
 "Buy %1 with %2 discount each","Achetez-en %1 et profitez d'une remise de %2 par produit"
 "Go back to product details","Revenir aux détails du produit"
@@ -3662,7 +3662,7 @@ Select,Sélectionnez
 "Buy %1 for %2 each and","Achetez-en %1 à %2 pièce et"
 save,économisez
 "Configurable Product Image","Image de produit configurable"
-"As low as: ","Achetez en volume à : "
+"As low as: ","Prix à partir de : "
 "catalogProductMediaConfig is already set","catalogProductMediaConfig est déjà défini"
 "Could not update option with id ""%1""","Impossible de mettre à jour l'option avec l'id ""%1"""
 "Product already has this option","Le produit a déjà cette option"
