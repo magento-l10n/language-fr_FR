@@ -248,7 +248,7 @@ button_label,"Couleur de texte de bouton pour le gabarit Ogone"
 "Search Query","Termes de recherche"
 Store,Magasin
 Results,Résultats
-Uses,Utilise
+Uses,Utilisations
 "Redirect URL","URL de redirection"
 "Suggested Term","Durée suggérée"
 Yes,Oui
@@ -4650,7 +4650,7 @@ Cybersource,CyberSource
 "The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration.","Le fichier de configuration a changé. Exécutez la commande ""app:config:import"" ou ""setup:upgrade"" pour synchroniser la configuration."
 "Format for IDE '%1' is not supported","Le format pour l’EDI '%1' n’est pas pris en charge"
 "Client side compilation doesn't work in production mode","La compilation du côté client ne fonctionne pas en mode production"
-"Client side less compilation","Laissez vide si vous souhaitez y accéder depuis n'importe où."
+"Client side less compilation","Compilation LESS coté serveur"
 "Server side less compilation","Compilation LESS coté serveur"
 "Frontend Development Workflow","Workflow de développement du frontend"
 "Workflow type","Type d’automatisation de processus"
@@ -4658,11 +4658,11 @@ Cybersource,CyberSource
 "Developer Client Restrictions","Restrictions client développeur"
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)"
 "Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où."
-"Log to File","Enregistrer dans un fichier"
+"Log to File","Enregistrer dans un fichier log"
 "Not available in production mode.","Pas disponible en mode production."
 "Front-end development workflow","Workflow de développement du frontend"
 "Magento was installed with a table prefix. Please re-install without prefix.","Magento a été installé avec un préfixe de table. Veuillez réinstaller sans préfixe."
-"Log to Syslog","Se connecter à Syslog"
+"Log to Syslog","Log vers syslog"
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Sélectionnez cette option pour permettre à DHL d'optimiser les frais d'expédition en divisant la commande si elle dépasse %1 %2."
 "Wrong Content Type","Mauvais type de contenu"
 Pounds,Livres
@@ -8225,6 +8225,7 @@ Detail,Détail
 "Order Quantity","Quantité commandée"
 "Coupons Usage Report","Rapport des utilisations des bons de réduction"
 "Price Rule","Règle de prix"
+Uses,Utilise
 "Sales Subtotal","Sous-total vente"
 "Sales Discount",Remises
 "Sales Total","Total des ventes"
