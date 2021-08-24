@@ -3859,7 +3859,7 @@ Visitor,Visiteur
 "It's a default billing address.","C'est l'adresse de facturation par défaut."
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut"
 "It's a default shipping address.","C'est l'adresse de livraison par défaut."
-"Use as my default shipping address","Utiliser comme adresse de <strong>livraison</strong> par défaut"
+"Use as my default shipping address","Utiliser comme adresse de livraison par défaut"
 "Go back",Retour
 "Additional Address Entries","Saisie d'adresses supplémentaires"
 "Additional addresses","Adresse (suite)"
@@ -4170,7 +4170,6 @@ Theme,Thème
 "Street Address: Line %1","Adresse: Ligne %1"
 "This is your default billing address.","Ceci est votre adresse de facturation par défaut."
 "This is your default shipping address.","Ceci est votre adresse de livraison par défaut."
-"Use as my default shipping address","Utiliser comme adresse de livraison par défaut"
 Upload,Uploader
 "Click here or drag and drop to add files.","Cliquez ici ou glisser-déposer pour ajouter des fichiers."
 "Customer Address","Adresse du client"
@@ -8882,7 +8881,7 @@ Operations,Opérations
 "Use Aggregated Data","Utiliser des données agrégées"
 "Improves dashboard performance but provides non-realtime data.","Améliore les performances du tableau de bord mais fournit des données non temps réel."
 "Orders Cron Settings","Paramètres Cron des commandes"
-"Pending Payment Order Lifetime (minutes)","Durée de vie de l'ordre de paiement en attente (minutes)"
+"Pending Payment Order Lifetime (minutes)","Durée de vie des commandes en attente de paiement (minutes)"
 "Sales Emails","Mails des ventes"
 "Asynchronous sending","Envoi asynchrone"
 "Limit per cron run","Limite par exécution cron"
