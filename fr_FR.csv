@@ -4809,6 +4809,7 @@ hello,bonjour
 "Error filtering template: %s","Erreur de modèle de filtrage : %s"
 "We're sorry, an error has occurred while generating this content.","Nous sommes désolés, qu'une erreur est survenue lors de la génération de ce contenu."
 "Invalid sender data","L'email de l'expéditeur est invalide"
+"Unable to send mail. Please try again later.","Impossible d'envoyer le mail, merci de réessayer plus tard."
 "Load Default Template","Charger le template par défaut"
 "Are you sure you want to strip tags?","Êtes-vous sûr de vouloir supprimer les tags ?"
 "Are you sure you want to delete this template?","Êtes-vous sûr de vouloir supprimer le modèle ?"
@@ -7045,6 +7046,17 @@ Installment,"Paiement échelonné"
 "Every 30 days","Tous les 30 jours"
 "Every 40 days","Tous les 40 jours"
 "No Logo","Auncun Logo"
+White,Blanc
+"White No Border","Blanc sans bordures"
+Gray,Gris
+Grayscale,"Niveaux de gris"
+Left,Gauche
+Right,Droite
+Top,Haut
+Primary,Principal
+Alternative,Alternatif
+Inline,"Une ligne"
+Sidebar,"Barre latérale"
 "Yes (PayPal recommends this option)","Oui (PayPal recommande cette option)"
 "Created billing agreement #%1.","Accord de facturation créé n° %1."
 "We can't create a billing agreement for this order.","Nous ne pouvons pas créer un accord de facturation pour cette commande."
@@ -7121,6 +7133,13 @@ Manage,Gérer
 "Accept credit card and PayPal payments securely.","Acceptez les paiements par carte de crédit et PayPal en toute sécurité."
 "Basic Settings - PayPal Website Payments Standard","Paramètres de base - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","Passerelles de paiement PayPal&nbsp;<i>Traitez les paiements en utilisant votre propre compte marchand Internet.</i>"
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Afficher le message de paiement différé sur votre site pour des offres comme le paiement en 3x,
+                                    qui permet aux clients de payer en 3 fois sans frais supplémentaires. Nous afficherons les messages
+                                    sur votre site pour promouvoir cette fonctionnalité. Vous pourriez ne pas promouvoir des offres de paiement différé
+                                    avec tout autre contenu, marketing, ou documents."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Solutions de paiement tout-en-un PayPal&nbsp;&nbsp;<i> Accepter et traiter les cartes de crédit et les paiements PayPal.</i>"
 "Accept payments with a completely customizable checkout page.","Acceptez les paiements avec une page de paiement entièrement personnalisable."
 "Website Payments Standard","PayPal Standard"
@@ -7151,6 +7170,14 @@ Manage,Gérer
                         Vous êtes payé à l'avance, même si les clients ont plus de temps à payer. Un bouton de paiement pré-intégré permet aux clients de payer rapidement avec PayPal Credit&#174;.
                         <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>"
 "Sort Order PayPal Credit","Ordre de tri PayPal Crédit"
+"Enable PayPal PayLater Experience","Activer PayPal PayLater expérience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommandé. <strong>Pub PayPal Credit</strong> est dépréciée.
+                    Voir les détails de PayPal PayLater et la liste des régions prises en charge
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    ici</a>."
 "Advertise PayPal Credit","Promouvoir le crédit PayPal"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -7171,7 +7198,15 @@ Display,Afficher
 "Catalog Category Page","Page des catégories du catalogue"
 "Catalog Product Page","Page des produits du catalogue"
 "Checkout Cart Page","Page du paiement du panier"
+"Advertise PayPal PayLater","Promouvoir PayPal PayLater"
+"Enable PayPal PayLater","Activer PayPal PayLater"
+"Style Layout","Style de mise en page"
+"Logo Type","Type de logo"
+"Logo Position","Position du logo"
+"Text Color","Couleur du texte"
+"Text Size","Taille du texte"
 Color,Couleur
+"Checkout Payment Step","Étape de paiement"
 "Basic Settings - PayPal Express Checkout","Réglages de base - PayPal Express Checkout"
 "Display on Product Details Page","Afficher sur la page de détails du produit"
 "Authorization Honor Period (days)","Période d'autorisation d'honneur (jours)"
@@ -9886,7 +9921,6 @@ Method,Méthode
 Collapse,Replier
 Expand,Étendre
 " (no data)"," (aucune donnée)"
-Top,Haut
 "No data","Aucune donnée"
 "Support Data Collector","Support de Collecteur de données"
 "Support System Report","Rapport système de support"
