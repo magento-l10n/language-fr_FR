@@ -10082,7 +10082,7 @@ State,État/Région/Dpt
 "Grand Total (Excl. Tax)","Total (HT)"
 "Grand Total (Incl. Tax)","Total (TTC)"
 "Shipping (Excl. Tax)","Livraison (HT)"
-"Shipping (Incl. Tax)","Livraison et traitement (TTC)"
+"Shipping (Incl. Tax)","Livraison (TTC)"
 "Before Discount","Avant remise"
 "After Discount","Après remise"
 "To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","Pour appliquer les remises sur les prix TTC et appliquer la taxe après remise, mettez les prix catalogue sur « TTC ». "
