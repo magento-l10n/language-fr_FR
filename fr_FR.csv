@@ -11031,7 +11031,7 @@ Worldpay,WorldPay
 Footer,"Pied de page"
 "<a href=%url_about_us>About Us</a>","<a href=%url_about_us>A propos de nous</a>"
 "<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Service client</a>"
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%sà_téléphone</a>"
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>"
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Heures d'ouverture : <br /><span class=""no-link"">%store_hours</span>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email""> %store_email</a>."
 "Shipping Info","Informations d'expédition"
