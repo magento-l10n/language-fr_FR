@@ -5371,6 +5371,9 @@ Generate,Générer
 "Gift card not found","Carte cadeau introuvable"
 "Gift card account is not redeemable.","Le compte de carte-cadeau n'est pas remboursable."
 "Cannot find the customer to update balance","Impossible de trouver le client pour mettre à jour le solde"
+"Gift Messages are not applicable for empty cart","Les messages cadeaux ne sont pas applicables aux paniers vides"
+"Gift Messages are not applicable for virtual products","Les messages cadeaux ne sont pas applicables aux produits virtuels"
+"Gift Message is not available","Le message cadeau n'est pas disponible"
 "There is no order with provided id","Il n'y a pas de commande avec cet identifiant"
 "Unknown entity type","Type d'entité inconnu"
 "Test label","Etiquette de test"
@@ -10809,6 +10812,8 @@ Author,Auteur
 "Revision #%1 could not be removed because it is published.","La révision n°%1 n'a pas pu être supprimée, car elle est publiée."
 "CMS Revision with id ""%1"" does not exist.","La révision CMS avec l'id ""%1"" n'existe pas."
 "Please enter a version label.","Veuillez entrer un libellé de version."
+"Version ""%1"" cannot be removed because it is the last public page version.","La version ""%1"" ne peut pas être supprimée car c'est la dernière version publique de la page."
+"Version ""%1"" cannot be removed because its revision is published.","La version ""%1"" ne peut pas être supprimée, car sa révision est publiée."
 "Please wait...","Veuillez patienter..."
 Author:,Auteur :
 "The CMS node with the ""%1"" ID doesn't exist.","Le noeud CMS avec l'ID ""%1"" n'existe pas."
